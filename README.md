@@ -1,6 +1,7 @@
 # senescyt-explorer
 
-Consulta datos del sitio de Títulos de tercer de nivel de la senescyt desde consola. Usando IA Tesseract OCR para resolver el CAPTCHA. 
+Consulta datos del sitio de Títulos de tercer de nivel de la senescyt desde consola. 
+Usando IA Tesseract OCR para resolver el CAPTCHA. 
 
 
 ## Instrucciones 
